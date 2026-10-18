@@ -1,0 +1,9 @@
+{
+  "name": "payfresco",
+  "version": "1.0.0",
+  "description": "Free payments tools: merchant approval checker, decline-rate diagnostic and multi-currency billing planner. Optional one-step application to PayFresco.",
+  "author": { "name": "PayFresco", "url": "https://payfresco.com" },
+  "homepage": "https://payfresco.com",
+  "license": "MIT",
+  "keywords": ["payments", "merchant account", "high risk", "payment processing", "declines", "multi-currency"]
+}

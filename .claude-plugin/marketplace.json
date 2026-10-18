@@ -1,0 +1,15 @@
+{
+  "name": "payfresco",
+  "owner": { "name": "PayFresco" },
+  "metadata": { "description": "Free payment-processing tools for Claude, from PayFresco.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "payfresco",
+      "source": "./plugins/payfresco",
+      "description": "Check merchant-account approval odds, quantify revenue lost to card declines, and plan multi-currency billing. Apply to PayFresco in one step when you're ready.",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["payments", "merchant account", "high risk", "payment processing", "declines", "multi-currency", "stripe", "adyen"]
+    }
+  ]
+}

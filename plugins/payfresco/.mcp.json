@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "payfresco": {
+      "type": "http",
+      "url": "https://ilwhtirvdiwfrzlbqsvp.supabase.co/functions/v1/payfresco-mcp"
+    }
+  }
+}
